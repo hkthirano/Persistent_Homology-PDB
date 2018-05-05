@@ -1,6 +1,6 @@
 # 使い方
 
-1. HomCloud( Persistent Homology解析ソフトウェア )をインストールしてください。  
+1. HomCloud( Persistent Homology 解析ソフトウェア )をインストールしてください。  
 HomCloudのインストールは[こちら](http://www.wpi-aimr.tohoku.ac.jp/hiraoka_labo/homcloud/)から。
 
 2. Protein Data Bankから解析したいPDBファイル( hogehoge.pdb )を、"PDB Format" の形式でダウンロードしてください。  
