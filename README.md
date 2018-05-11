@@ -16,3 +16,6 @@ sh exe.sh hogehoge.pdb
  * hogehoge_atom.txt：hogehoge.pdb から抜き出したα炭素の座標。  
  * hogehoge.idiagram：プロットするためのデータ。  
  * hogehoge-pd2.txt：プロットする際の、birth(横軸)-death(縦軸)のペア。
+
+5. 結果  
+[パーシステントホモロジーでタンパク質の穴を見てみる](https://qiita.com/hokuto_HIRANO/items/98cf702d04d80ec2d66f)
