@@ -35,4 +35,6 @@ python main_1XQ5.py
 
 
 ## 備考  
-[パーシステントホモロジーでタンパク質の穴を見てみる](https://qiita.com/hokuto_HIRANO/items/98cf702d04d80ec2d66f)
+
++ [パーシステントホモロジーでタンパク質の穴を見てみる](https://qiita.com/hokuto_HIRANO/items/98cf702d04d80ec2d66f)
++ [Persistent Homologyについて 「パーシステントホモロジーと機械学習」](http://ibisml.org/archive/ibis2016/Hiraoka_IBIS2016.pdf)
