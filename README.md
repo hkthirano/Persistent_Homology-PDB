@@ -2,7 +2,7 @@
 
 パーシステントホモロジーでタンパク質の穴を見ることができます。
 
-![res](https://github.com/hokuto-HIRANO/GA_Game/blob/master/Data/sample_1OVA.png)
+![res](https://github.com/hokuto-HIRANO/GA_Game/blob/master/Data/sample_1OVA_PD.png)
 
 ## 使い方
 
