@@ -32,7 +32,7 @@ python main_1XQ5.py
 他のタンパク質で試す場合は, PDBファイルを[PDB](https://www.rcsb.org/)からダウンロードして、  
 `main_1XQ5.py`を参考に.
 
-結果の図だけ見たい場合は,Webアプリから.
+結果の図だけ見たい場合はWebアプリから.
 
 [Protein Holes](http://takemoto08.bio.kyutech.ac.jp/~hirano/Protein_Holes/)
 
