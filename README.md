@@ -8,7 +8,7 @@
 
 内部で`HomCloud`を使用.
 
-HomCloudのインストールは[ここ](http://www.wpi-aimr.tohoku.ac.jp/hiraoka_labo/homcloud/)から。
+HomCloudのインストールは[ここ](http://www.wpi-aimr.tohoku.ac.jp/hiraoka_labo/homcloud/)から.
 
 ## デモ
 
