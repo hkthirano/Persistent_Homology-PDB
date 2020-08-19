@@ -1,19 +1,20 @@
 # Persistent_Homology-PDB
 
-パーシステントホモロジーでタンパク質の穴を見ることができます。
+パーシステントホモロジーでタンパク質の穴を見る.
 
 ![res](https://github.com/hokuto-HIRANO/Persistent_Homology-PDB/blob/master/Data/sample_1OVA_PD.png)
 
 ## 使い方
 
-内部で`HomCloud`を使用しています。  
-HomCloud(Persistent Homology解析ソフトウェア)をインストールしてください。  
-HomCloudのインストールは[こちら](http://www.wpi-aimr.tohoku.ac.jp/hiraoka_labo/homcloud/)から。
+内部で`HomCloud`を使用.
+
+HomCloudのインストールは[ここ](http://www.wpi-aimr.tohoku.ac.jp/hiraoka_labo/homcloud/)から。
 
 ## デモ
 
-例として、`PDBfile`に`1OVA.pdb`(タンパク質データ)を準備しています。  
-以下のように実行すると、`Data`の中に３つの結果ファイルが作成されます。
+例として, `PDBfile`に`1OVA.pdb`(タンパク質データ)を準備.
+
+以下のように実行すると, `Data`の中に３つの結果ファイルが作成される.
 
 ```
 python main_1XQ5.py
@@ -24,13 +25,15 @@ python main_1XQ5.py
 
 ## 詳細
 
-座標を抽出するプログラムは、別途で自作した`Read_Amin_XYZ`というライブラリを使っています。  
-使い方は、[hokuto-HIRANO/Read_Amin_XYZ](https://github.com/hokuto-HIRANO/Read_Amin_XYZ)をご覧ください。
+座標を抽出するプログラムは, 別途で自作した`Read_Amin_XYZ`というライブラリを使用.
 
-他のタンパク質で試したい方は、PDBファイルを[PDB](https://www.rcsb.org/)からダウンロードして、  
-`main_1XQ5.py`を参考にしてみてください。
+使い方は, [hokuto-HIRANO/Read_Amin_XYZ](https://github.com/hokuto-HIRANO/Read_Amin_XYZ).
 
-また、結果の図だけ見たい方は、Webアプリを用意しているので使ってみてください。  
+他のタンパク質で試す場合は, PDBファイルを[PDB](https://www.rcsb.org/)からダウンロードして、  
+`main_1XQ5.py`を参考に.
+
+結果の図だけ見たい場合は,Webアプリから.
+
 [Protein Holes](http://takemoto08.bio.kyutech.ac.jp/~hirano/Protein_Holes/)
 
 
